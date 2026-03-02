@@ -11,6 +11,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
