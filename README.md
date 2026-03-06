@@ -29,4 +29,8 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0136-single-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 <!---LeetCode Topics End-->
