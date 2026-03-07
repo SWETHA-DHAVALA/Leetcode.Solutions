@@ -11,6 +11,7 @@ my solution
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0263-ugly-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0263-ugly-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Greedy
