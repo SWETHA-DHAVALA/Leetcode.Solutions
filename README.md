@@ -31,6 +31,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0136-single-number/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
