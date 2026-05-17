@@ -17,6 +17,7 @@ my solution
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0263-ugly-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -64,4 +65,8 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2485-find-the-pivot-integer](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 <!---LeetCode Topics End-->
