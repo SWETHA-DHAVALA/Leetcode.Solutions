@@ -10,6 +10,7 @@ my solution
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0198-house-robber/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@ my solution
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
