@@ -10,6 +10,7 @@ my solution
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0198-house-robber/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
