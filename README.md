@@ -6,6 +6,7 @@ my solution
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -95,6 +96,7 @@ my solution
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0001-two-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Two Pointers
