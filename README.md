@@ -46,6 +46,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0136-single-number/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String
@@ -62,6 +63,7 @@ my solution
 | [0033-search-in-rotated-sorted-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2540-minimum-common-value](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -81,6 +84,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
