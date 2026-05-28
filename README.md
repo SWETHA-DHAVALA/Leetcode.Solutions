@@ -25,6 +25,7 @@ my solution
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -107,6 +108,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
