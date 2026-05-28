@@ -16,6 +16,7 @@ my solution
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0724-find-pivot-index](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -105,6 +106,7 @@ my solution
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
