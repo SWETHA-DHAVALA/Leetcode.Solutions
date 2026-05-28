@@ -15,6 +15,7 @@ my solution
 | [0198-house-robber](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0198-house-robber/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0636-exclusive-time-of-functions](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0724-find-pivot-index](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -145,5 +146,6 @@ my solution
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0636-exclusive-time-of-functions](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 <!---LeetCode Topics End-->
