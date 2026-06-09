@@ -33,6 +33,7 @@ my solution
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ my solution
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2126-destroying-asteroids](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
