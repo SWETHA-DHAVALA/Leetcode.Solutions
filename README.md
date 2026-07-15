@@ -47,6 +47,7 @@ my solution
 | [2485-find-the-pivot-integer](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +163,8 @@ my solution
 | ------- | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
