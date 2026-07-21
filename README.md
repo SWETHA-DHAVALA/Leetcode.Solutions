@@ -9,6 +9,7 @@ my solution
 | [0001-two-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0136-single-number/) | Easy |
@@ -135,6 +136,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
