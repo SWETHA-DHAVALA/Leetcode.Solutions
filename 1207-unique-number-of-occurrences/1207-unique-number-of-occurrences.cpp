@@ -6,7 +6,7 @@ public:
         {
             mp[i]++;
         }
-        set<int>s;
+        unordered_set<int>s;
         for(auto i : mp)
         {
             if(s.count(i.second))
