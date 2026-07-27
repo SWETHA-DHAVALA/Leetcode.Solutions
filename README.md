@@ -28,6 +28,7 @@ my solution
 | [1470-shuffle-the-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -55,6 +56,7 @@ my solution
 | ------- | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [2126-destroying-asteroids](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
@@ -91,6 +93,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0198-house-robber/) | Medium |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
