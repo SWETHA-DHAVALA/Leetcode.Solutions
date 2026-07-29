@@ -93,6 +93,7 @@ my solution
 | [1768-merge-strings-alternately](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@ my solution
 | [2540-minimum-common-value](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
