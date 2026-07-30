@@ -53,6 +53,7 @@ my solution
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Greedy
@@ -62,6 +63,7 @@ my solution
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [2126-destroying-asteroids](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@ my solution
 | [1071-greatest-common-divisor-of-strings](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Dynamic Programming
