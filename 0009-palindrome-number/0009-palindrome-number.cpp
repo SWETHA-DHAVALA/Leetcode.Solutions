@@ -1,7 +1,9 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        // int m = x;
+        int m = x;
+        if(x < 0)
+        return 0;
         // string s = to_string(x);
         //  reverse(s.begin(),s.end());
         // int rev = stoi(s);
@@ -9,7 +11,7 @@ public:
         // return 1;
         // else
         // return 0;
-        int m = x;
+        // int m = x;
         double rem , sum = 0 ;
         while(x > 0)
         {
