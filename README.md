@@ -95,6 +95,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
