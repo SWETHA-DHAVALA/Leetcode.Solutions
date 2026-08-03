@@ -25,6 +25,7 @@ my solution
 | [0643-maximum-average-subarray-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0724-find-pivot-index](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0877-stone-game](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -50,6 +51,7 @@ my solution
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0263-ugly-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0263-ugly-number/) | Easy |
+| [0877-stone-game](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -82,6 +84,7 @@ my solution
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -106,6 +109,7 @@ my solution
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0198-house-robber/) | Medium |
+| [0877-stone-game](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0877-stone-game/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -205,4 +209,12 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
