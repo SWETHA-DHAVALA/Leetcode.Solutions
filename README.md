@@ -49,6 +49,7 @@ my solution
 | [2733-neither-minimum-nor-maximum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ my solution
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2126-destroying-asteroids](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [3731-find-missing-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ my solution
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3731-find-missing-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
