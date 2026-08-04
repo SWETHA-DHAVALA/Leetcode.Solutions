@@ -48,6 +48,7 @@ my solution
 | [2733-neither-minimum-nor-maximum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +216,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +225,8 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0877-stone-game/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
