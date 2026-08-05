@@ -103,6 +103,7 @@ my solution
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -183,6 +184,7 @@ my solution
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -236,4 +238,20 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
