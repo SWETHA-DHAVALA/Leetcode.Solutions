@@ -51,6 +51,7 @@ my solution
 | [3689-maximum-total-subarray-value-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +197,7 @@ my solution
 | [1441-build-an-array-with-stack-operations](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
