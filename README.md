@@ -10,6 +10,7 @@ my solution
 | [0033-search-in-rotated-sorted-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0074-search-a-2d-matrix](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -125,6 +126,7 @@ my solution
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -228,6 +230,7 @@ my solution
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Minimax
