@@ -10,6 +10,7 @@ my solution
 | [0033-search-in-rotated-sorted-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0053-maximum-subarray](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -117,6 +118,7 @@ my solution
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0198-house-robber/) | Medium |
 | [0877-stone-game](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0877-stone-game/) | Medium |
@@ -136,6 +138,7 @@ my solution
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
