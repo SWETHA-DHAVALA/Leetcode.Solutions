@@ -10,6 +10,7 @@ my solution
 | [0033-search-in-rotated-sorted-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -82,6 +83,7 @@ my solution
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0414-third-maximum-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -109,6 +111,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -180,6 +183,7 @@ my solution
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0645-set-mismatch/) | Easy |
