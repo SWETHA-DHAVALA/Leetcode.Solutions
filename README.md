@@ -55,6 +55,7 @@ my solution
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Math
@@ -71,6 +72,7 @@ my solution
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
