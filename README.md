@@ -27,6 +27,7 @@ my solution
 | [0414-third-maximum-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0525-contiguous-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -170,6 +171,7 @@ my solution
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0525-contiguous-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -190,6 +192,7 @@ my solution
 | [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0525-contiguous-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0645-set-mismatch](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
