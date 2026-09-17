@@ -13,6 +13,7 @@ my solution
 | [0048-rotate-image](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -216,6 +217,7 @@ my solution
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -249,6 +251,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
