@@ -7,6 +7,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0001-two-sum/) | Easy |
+| [0031-next-permutation](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0041-first-missing-positive/) | Hard |
@@ -209,6 +210,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
