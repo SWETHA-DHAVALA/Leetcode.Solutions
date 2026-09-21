@@ -298,8 +298,14 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
