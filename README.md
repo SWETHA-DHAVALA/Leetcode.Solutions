@@ -85,6 +85,7 @@ my solution
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0649-dota2-senate](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
@@ -123,6 +124,7 @@ my solution
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0649-dota2-senate](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -305,6 +307,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [0649-dota2-senate](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Data Stream
