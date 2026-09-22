@@ -33,6 +33,7 @@ my solution
 | [0525-contiguous-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0622-design-circular-queue](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [0641-design-circular-deque](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0724-find-pivot-index](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -298,15 +299,18 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0641-design-circular-deque/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0641-design-circular-deque/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0641-design-circular-deque/) | Medium |
 | [0649-dota2-senate](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
