@@ -51,6 +51,7 @@ my solution
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2126-destroying-asteroids](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -223,6 +224,7 @@ my solution
 | [0054-spiral-matrix](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Counting Sort
@@ -304,6 +306,7 @@ my solution
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
