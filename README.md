@@ -126,6 +126,7 @@ my solution
 | [0020-valid-parentheses](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0649-dota2-senate](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -201,6 +202,7 @@ my solution
 | [0041-first-missing-positive](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0525-contiguous-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0645-set-mismatch](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -234,6 +236,7 @@ my solution
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Stack
@@ -311,6 +314,7 @@ my solution
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0641-design-circular-deque/) | Medium |
 | [0649-dota2-senate](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0649-dota2-senate/) | Medium |
