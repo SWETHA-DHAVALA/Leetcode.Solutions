@@ -123,6 +123,7 @@ my solution
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0649-dota2-senate](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0649-dota2-senate/) | Medium |
@@ -238,6 +239,7 @@ my solution
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Number Theory
@@ -318,4 +320,8 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
