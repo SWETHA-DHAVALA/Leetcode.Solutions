@@ -27,6 +27,7 @@ my solution
 | [0209-minimum-size-subarray-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -98,6 +99,7 @@ my solution
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -160,6 +162,7 @@ my solution
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +205,7 @@ my solution
 | [0041-first-missing-positive](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0525-contiguous-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0525-contiguous-array/) | Medium |
@@ -236,6 +240,7 @@ my solution
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -252,6 +257,7 @@ my solution
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -328,4 +334,12 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
