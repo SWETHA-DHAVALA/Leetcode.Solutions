@@ -22,6 +22,7 @@ my solution
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -73,6 +74,7 @@ my solution
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0263-ugly-number](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0877-stone-game](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -249,6 +251,7 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Number Theory
