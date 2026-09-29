@@ -357,4 +357,8 @@ my solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/SWETHA-DHAVALA/Leetcode.Solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
